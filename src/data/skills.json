@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Html-5",
+    "imageSrc": "../assest/skills/html.png"
+  },
+ 
+  {
+    "title": "React",
+    "imageSrc": "../assest/skills/react.png"
+  },
+  {
+    "title": "ML",
+    "imageSrc": "../assest/skills/ml.jpg"
+  },
+  {
+    "title":"Dsa",
+    "imageSrc":"../assest/skills/dsa.jpg"
+  },
+  
+  {
+    "title": "python",
+    "imageSrc": "../assest/skills/python.jpeg"
+  },
+  {
+    "title": "java",
+    "imageSrc": "../assest/skills/java.png"
+  }
+]

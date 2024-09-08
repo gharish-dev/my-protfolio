@@ -1,0 +1,44 @@
+[   {
+        "id": 1,
+        "role": "Machine Learning",
+        "organisation": "BrainOvision solution",
+        "startDate": "Aug, 2023",
+        "endDate": "Sep,2023",
+        "experiences": [
+          "During internship learn ML",
+          "Done project HateSpeechDetection"
+        ],
+        "l":"https://github.com/gharish-dev/Codsoft/blob/main/Hate_speech_detection.ipynb"
+    
+      },
+      {
+        "id": 2,
+        "role": "MERN FULLSTACK",
+        "organisation": "IIDT",
+        "startDate": "Aug, 2022",
+        "endDate": "Aug, 2023",
+        "experiences": [
+          "During internship Learn React js",
+          "Developed project entitled Strame-line Stays"
+        ],
+        "l":"contract me"
+    
+        
+      },
+      {
+        "id": 3,
+        "role": "python",
+        "organisation": "Netflix",
+        "startDate": "Apr, 2023",
+        "endDate": "Nov, 2023",
+        "experiences": [
+          " During Internship Learn python",
+          "Developed project miniproject called Todolist"
+        ],
+        "l":"https://github.com/gharish-dev/Codsoft/blob/main/To-Do%20List.py"
+
+    
+       
+      }
+    ]
+    
