@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87dbe368.css",
+    "main.js": "/static/js/main.34b14643.js",
+    "static/js/453.6da81e3b.chunk.js": "/static/js/453.6da81e3b.chunk.js",
+    "static/media/Harish.pdf": "/static/media/Harish.e73b9710ef97804e9ec4.pdf",
+    "index.html": "/index.html",
+    "main.87dbe368.css.map": "/static/css/main.87dbe368.css.map",
+    "main.34b14643.js.map": "/static/js/main.34b14643.js.map",
+    "453.6da81e3b.chunk.js.map": "/static/js/453.6da81e3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87dbe368.css",
+    "static/js/main.34b14643.js"
+  ]
+}
